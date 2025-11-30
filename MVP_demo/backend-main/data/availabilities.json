@@ -1,0 +1,42 @@
+[
+  {
+    "slot_id": 1,
+    "tutor_id": 2,
+    "start_time": "2025-11-30T10:00:54Z",
+    "end_time": "2025-11-30T11:00:54Z",
+    "room": "H6-101",
+    "subject": "Database Systems",
+    "max_students": 30,
+    "current_students": 2
+  },
+  {
+    "slot_id": 2,
+    "tutor_id": 2,
+    "start_time": "2025-11-30T10:00:08Z",
+    "end_time": "2025-11-30T11:00:08Z",
+    "room": "H6-201",
+    "subject": "Introduction to Computing",
+    "max_students": 30,
+    "current_students": 2
+  },
+  {
+    "slot_id": 3,
+    "tutor_id": 6,
+    "start_time": "2025-11-30T10:00:58Z",
+    "end_time": "2025-11-30T11:00:58Z",
+    "room": "H1-101",
+    "subject": "Mathematical Modeling",
+    "max_students": 30,
+    "current_students": 0
+  },
+  {
+    "slot_id": 4,
+    "tutor_id": 4,
+    "start_time": "2025-11-30T10:00:08Z",
+    "end_time": "2025-11-30T11:00:08Z",
+    "room": "H3-101",
+    "subject": "Computer Architecture",
+    "max_students": 30,
+    "current_students": 1
+  }
+]
